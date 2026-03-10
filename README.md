@@ -19,10 +19,3 @@ Fuente: [Challenge2 Data Science LATAM](https://github.com/ingridcristh/challeng
 ## 🛠️ Tecnologías
 - Python (Pandas, Matplotlib)
 - Google Colab
-
-## 🔗 Repositorio
-[URL de tu repositorio]
-
----
-
-📅 Marzo 2026
